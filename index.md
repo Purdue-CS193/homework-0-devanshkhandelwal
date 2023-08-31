@@ -11,6 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Collaborative learning environment
 - Practical projects
 - Supportive TAs
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for formatting text, creating headings, adding lists, links, images, and more.
